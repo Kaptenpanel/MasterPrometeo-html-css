@@ -1,3 +1,25 @@
 :root {
     
 }
+
+body{
+    color:#EFFFC8 ;
+    background-color: #100B00;
+}
+
+body p {
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a:link {
+    color: #85CB33;
+}
+
+header {
+    background-color: #3B341F;
+}
+header nav {
+    padding: 50 px;
+}
+
